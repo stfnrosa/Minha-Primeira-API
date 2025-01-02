@@ -6,8 +6,24 @@
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProductClientHub.Communication.Requests.RequestClientJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProductClientHub.Communication.Responses.ResponseClientJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
   },
   {
     "ContainingType": "ProductClientHub.API.Controllers.ClientsController",
