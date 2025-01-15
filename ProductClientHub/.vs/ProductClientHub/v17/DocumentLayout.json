@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9B9EFB82-8333-4028-974C-66BA870085BA}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2D88BA3-B8DB-4526-8175-DB4FF8A7018E}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\user\\desktop\\estefani\\projetos\\minha-primeira-api\\productclienthub\\productclienthub.communication\\responses\\responseclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D88BA3-B8DB-4526-8175-DB4FF8A7018E}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\responses\\responseclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B9EFB82-8333-4028-974C-66BA870085BA}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\user\\desktop\\estefani\\projetos\\minha-primeira-api\\productclienthub\\productclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9EFB82-8333-4028-974C-66BA870085BA}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2D88BA3-B8DB-4526-8175-DB4FF8A7018E}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\user\\desktop\\estefani\\projetos\\minha-primeira-api\\productclienthub\\productclienthub.communication\\requests\\requestclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D88BA3-B8DB-4526-8175-DB4FF8A7018E}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\requests\\requestclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2D88BA3-B8DB-4526-8175-DB4FF8A7018E}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\user\\desktop\\estefani\\projetos\\minha-primeira-api\\productclienthub\\productclienthub.communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D88BA3-B8DB-4526-8175-DB4FF8A7018E}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResponseClientJson.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\Minha-Primeira-API\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\Minha-Primeira-API\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
-              "RelativeToolTip": "ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T21:02:52.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RequestClientJson.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\Minha-Primeira-API\\ProductClientHub\\ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\Minha-Primeira-API\\ProductClientHub\\ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
-              "RelativeToolTip": "ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "ResponseErrorMessagesJson.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\Minha-Primeira-API\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\Minha-Primeira-API\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "RelativeToolTip": "ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T20:56:18.832Z",
+              "WhenOpened": "2025-01-15T21:32:00.157Z",
               "EditorCaption": ""
             },
             {
@@ -70,9 +57,22 @@
               "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\Minha-Primeira-API\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
               "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T23:52:20.83Z",
+              "WhenOpened": "2025-01-15T21:23:02.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterClientUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\Minha-Primeira-API\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Estefani\\Projetos\\Minha-Primeira-API\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "RelativeToolTip": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:56:52.511Z",
               "EditorCaption": ""
             }
           ]

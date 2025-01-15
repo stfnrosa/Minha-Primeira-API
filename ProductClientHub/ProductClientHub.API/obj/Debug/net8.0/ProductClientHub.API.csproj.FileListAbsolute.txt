@@ -39,3 +39,4 @@ C:\Users\User\Desktop\Estefani\Projetos\Minha-Primeira-API\ProductClientHub\Prod
 C:\Users\User\Desktop\Estefani\Projetos\Minha-Primeira-API\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\ref\ProductClientHub.API.dll
 C:\Users\User\Desktop\Estefani\Projetos\Minha-Primeira-API\ProductClientHub\ProductClientHub.API\bin\Debug\net8.0\ProductClientHub.Communication.dll
 C:\Users\User\Desktop\Estefani\Projetos\Minha-Primeira-API\ProductClientHub\ProductClientHub.API\bin\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Users\User\Desktop\Estefani\Projetos\Minha-Primeira-API\ProductClientHub\ProductClientHub.API\bin\Debug\net8.0\FluentValidation.dll
